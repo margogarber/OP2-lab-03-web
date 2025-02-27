@@ -16,7 +16,7 @@ so our output will look like this:
 it's a table of all the calculation
 everything under the letter "a" is the value of "a", the same for other letters
 (a)	(b)	(c = a + b)
-1.0	2.0 3.0
+1.0	2.0  3.0
 1.0	4.0	5.0
 1.0	6.0	7.0
 1.0	8.0	9.0
