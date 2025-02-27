@@ -96,8 +96,7 @@
     out.println("<tr>");
     out.println("<th>a</th>");
     out.println("<th>b</th>");
-    out.println("<th>c</th>");
-    out.println("<th>result</th>");
+    out.println("<th>a+b=c</th>");
     out.println("</tr>");
 
     for (double a = aFrom; a <= aTo; a += aStep) {
